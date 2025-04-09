@@ -2,6 +2,6 @@ Presento uno de mis proyectos de práctica: una tienda en fase de desarrollo ded
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Login:
-[![Captura-de-pantalla-2025-04-09-111526.png](https://i.postimg.cc/NMGFjfTM/Captura-de-pantalla-2025-04-09-111526.png)](https://postimg.cc/WDKT9V5L)
+![Image_Alt](https://postimg.cc/WDKT9V5L)
 
 
