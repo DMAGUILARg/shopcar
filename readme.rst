@@ -2,6 +2,10 @@ Presento uno de mis proyectos de práctica: una tienda en fase de desarrollo ded
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Login:
-![Image_Alt](https://postimg.cc/WDKT9V5L)
+
+![image](https://github.com/DMAGUILARg/shopcar/blob/c853d53a50e11c07c1cae8e9f76b0a032451aa5d/Captura%20de%20pantalla%202025-04-09%20113414.png)
+
+
+
 
 
