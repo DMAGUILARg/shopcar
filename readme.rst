@@ -10,7 +10,7 @@ Bienvenido a mi proyecto de práctica: una tienda en desarrollo para la venta de
 
 ## Capturas de pantalla
 ### Pantalla de Login
-![Pantalla de Login](https://raw.githubusercontent.com/DMAGUILARg/shopcar/main/images/Captura%20de%20pantalla%202025-04-09%20113414.png)
+(https://github.com/DMAGUILARg/shopcar/blob/5eec570020ec7fd6673d853455c4979dbe893bdc/Captura%20de%20pantalla%202025-04-09%20113414.png)
 
 ### Catálogo de Productos
 ![Catálogo](https://raw.githubusercontent.com/DMAGUILARg/shopcar/main/images/catalogo.png)
